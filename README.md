@@ -1,5 +1,4 @@
-# git
-First git test
+# My first git repository 
+This is my first git repository where I will learn the basics of git. I plan on added additional repositories in the future where I will publicly share some of my fun coding projects I am working on. 
 
-
-This is my personal foldered where I play around git.
+Oliver Blake
